@@ -136,3 +136,10 @@ a[href="https://froala.com/wysiwyg-editor"] {
   animation: failedValidation 0.82s cubic-bezier(.36,.07,.19,.97) both;
   transform: translate3d(0, 0, 0);
 }
+.imagePost {
+	height: 300px;
+}
+.uploader {
+  display: inline-block;
+  margin-top: 10%;
+}
