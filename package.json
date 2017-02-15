@@ -10,7 +10,7 @@
     "redux-thunk": "^2.2.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "devDependencies": {
     "axios": "^0.15.3",

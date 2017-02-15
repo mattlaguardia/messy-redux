@@ -18,6 +18,7 @@ export default class Footer extends React.Component {
     return(
       <div class="sixteen columns gray-light-background">
         <div class="text-center fpng">
+          Made with &hearts; by Matt
         </div>
       </div>
     )
