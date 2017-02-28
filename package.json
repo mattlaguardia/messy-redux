@@ -8,7 +8,8 @@
     "redux": "^3.6.0",
     "redux-logger": "^2.8.1",
     "redux-promise-middleware": "^4.2.0",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "superagent": "^3.5.0"
   },
   "scripts": {
     "start": "nodemon server.js"
